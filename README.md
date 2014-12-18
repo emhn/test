@@ -1,4 +1,4 @@
 test
 ====
 
-explore git commands and version control environment 
+explore git commands and version control environment.
